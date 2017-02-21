@@ -11,7 +11,7 @@ char *makememo(){
 }
 
 int main (void){
-  //  int *i;
+  //  int *i;aaa
   char *c;
   printf("%d\n",*c);
   c = makememo();  
